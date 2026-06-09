@@ -221,8 +221,3 @@ ___
 
 ![image](https://user-images.githubusercontent.com/53656050/226096766-73e5bbbd-1bc8-41e2-b478-9afe2c747e0d.png)
 
-
-## Acknowledgements
-- [AltSchool Africa](https://altschoolafrica.com/schools/engineering)
-
-- [Caleb Emelike](https://github.com/CalebEmelike)
